@@ -9,6 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
+    var git = true
     @IBOutlet weak var characterImage: UIImageView!
     @IBOutlet weak var accessoryImage: UIImageView!
     @IBOutlet weak var accessoryButton: UIButton!
